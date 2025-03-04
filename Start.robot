@@ -29,7 +29,7 @@ Abrir Página y Rellenar Formulario
     Open Browser    https://testautomationpractice.blogspot.com/    chrome
     Maximize Browser Window
     Set Selenium Speed    0.5s
-    Input Text    xpath=//input[@id="name"]     alejandro                    #name
+    Input Text    xpath=//input[@id="name"]     jorge                        #name
     Input Text    xpath=//input[@id="email"]    alexanderjs.pt24@gmail.com   #email
     Input Text    xpath=//input[@id="phone"]    9132459817                   #phone 
     Input Text    xpath=//textarea[@id="textarea"]    AV Aveiro 2300-400     #Direccion
