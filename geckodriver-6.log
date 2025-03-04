@@ -1,0 +1,14 @@
+1737749705317	geckodriver	INFO	Listening on 127.0.0.1:50552
+1737749708394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2HJPlU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737749708863	Marionette	INFO	Marionette enabled
+1737749709142	Marionette	INFO	Listening on port 50567
+WebDriver BiDi listening on ws://127.0.0.1:50553
+Read port: 50567
+1737749709308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50553/devtools/browser/467fd3b9-5f82-4f2f-a788-4cdafdca5cae
+1737749770913	Marionette	INFO	Stopped listening on port 50567
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

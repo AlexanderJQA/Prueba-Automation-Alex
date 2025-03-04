@@ -1,0 +1,21 @@
+1737749543081	geckodriver	INFO	Listening on 127.0.0.1:50448
+1737749546227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePFtSnO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737749547398	Marionette	INFO	Marionette enabled
+1737749547712	Marionette	INFO	Listening on port 50463
+WebDriver BiDi listening on ws://127.0.0.1:50449
+Read port: 50463
+1737749547897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50449/devtools/browser/0bb97ec9-3103-423d-82d3-ac9db2ea24a6
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+Exiting due to channel error.

@@ -1,0 +1,15 @@
+1737751466178	geckodriver	INFO	Listening on 127.0.0.1:51815
+1737751469254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileUMfGts"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737751469715	Marionette	INFO	Marionette enabled
+1737751470023	Marionette	INFO	Listening on port 51828
+WebDriver BiDi listening on ws://127.0.0.1:51816
+Read port: 51828
+1737751470184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51816/devtools/browser/7bf7a408-57db-4ddf-840f-2e4b413e66e8
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+1737751633056	Marionette	INFO	Stopped listening on port 51828
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

@@ -1,0 +1,23 @@
+1737752925823	geckodriver	INFO	Listening on 127.0.0.1:53725
+1737752928905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileEaLYnK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737752929362	Marionette	INFO	Marionette enabled
+1737752929628	Marionette	INFO	Listening on port 53736
+WebDriver BiDi listening on ws://127.0.0.1:53726
+Read port: 53736
+1737752929785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53726/devtools/browser/a34ffbea-a19d-41e6-8292-e400db01e71b
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login%20chrome" ({})
+1737824982357	Marionette	INFO	Stopped listening on port 53736
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
