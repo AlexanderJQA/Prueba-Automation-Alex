@@ -7,16 +7,18 @@ Library    datetime
 
 
 
-*** Test Cases ***
+*** Test Case ***
 login con user y password correctos
     Open Browser    https://opensource-demo.orangehrmlive.com/web/index.php/auth/login    chrome
     Maximize Browser Window
-    Sleep    15
-    inputton  xpath=//button[@type='submit']
-    Sleep   10 text    xpath://input[@name="username"]         admin 
-    input text  xpath=//input[@name='password']  admin123
-    Click But
-    close Browser
+    Wait Until Element Is Visible    xpath=//input[@name='username']    10s
+    Input Text    xpath=//input[@name='username']    admin
+    Input Text    xpath=//input[@name='password']    admin123
+    Wait Until Element Is Visible    xpath=//button[@type='submit']    10s
+    Click Button    xpath=//button[@type='submit']
+    Close Browser
+
+
     # Insertar login y contraseña
     # Click en Ok
     
