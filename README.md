@@ -1,5 +1,5 @@
 # Prueba-Automation-Alex
 Primer Reporte alex
 
-## descpricion
+## descripcion
 Este es un reporte de alex, creado solo para pruebas.
